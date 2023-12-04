@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Home</title>
+</head>
+<body data-spy="scroll" data-target="#navbarNav" data-offset="50">
+
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+   
+    <main>
+        <section class="hero">
+            <h1>Welcome to Our Website</h1>
+            <p>Let's care for your pet family.
+</p>
+<div class= "btn-group">
+<a href = "about.html" class="btn btn-primary text-uppercase">Learn more</a>
+</div>            
+        </section>
+       
+        <section class="features" width:60%;>
+
+           <div class="feature">
+    <img src="C:\Users\sound\Downloads\pet 4.jpg" style="width: 300px; height: 200px;">
+    <h2>Feature 1</h2>
+    <p>.......................</p>
+</div>
+
+            <div class="feature">
+                <img src="C:\Users\sound\Downloads\pet3.jpg" style="width: 300px; height: 200px;">
+                <h2>Feature 2</h2>
+                <p>......................</p>
+            </div>
+           
+           
+        </section>
+    </main>
+   
+    <footer>
+        <p>&copy; 2023 Your Website Name</p>
+    </footer>
+   
+    <script src="script.js"></script>
+
+
+
+     <!-- SCRIPTS -->
+     <script src="js/jquery.min.js"></script>
+     <script src="js/bootstrap.min.js"></script>
+     <script src="js/smoothscroll.js"></script>
+     <script src="js/owl.carousel.min.js"></script>
+     <script src="js/custom.js"></script>
+
+</body>
+
+
+</body>
+</html>
